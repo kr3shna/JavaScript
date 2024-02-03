@@ -10,7 +10,7 @@ data types are classified into two types 1) Primitive Data types 2) Non-Primitiv
 // Refrence type (Non-Primitive datatypes)
 //This are the values whose refrence are directly allocated in the memory
 
-Array, Objects ,Functions
+// Array, Objects ,Functions
 
 
 

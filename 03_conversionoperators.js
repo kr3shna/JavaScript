@@ -25,7 +25,7 @@
 
 
 
-// let someNumber = "12"
+// let someNumber = 12
 // let stringNumber = String(someNumber);
 // console.log(stringNumber);
 // console.log(typeof stringNumber);
@@ -50,7 +50,7 @@
 // console.log(3 ** 3);     //exponential
 
 
-let str1 = "Hello";
-let str2 = " Krishna";
-let str3 = str1 + str2;
-console.log(str3);
+// let str1 = "Hello";
+// let str2 = " Krishna";
+// let str3 = str1 + str2;
+// console.log(str3);

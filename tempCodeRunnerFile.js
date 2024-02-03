@@ -1,0 +1,1 @@
+let stringNumber = String(someNumber);
