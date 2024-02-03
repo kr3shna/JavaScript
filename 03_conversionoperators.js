@@ -56,10 +56,10 @@
 // console.log(str3);
 
 
-// console.log("1" + 2);
-// console.log(1 + "2");
-// console.log("1" + 2 +2);
-// console.log(1 + 2 + "2");
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + 2 +2);
+console.log(1 + 2 + "2");
 
 
 // console.log(+true);    // will give 1 as output But true+ will not expected
@@ -68,6 +68,6 @@
 // let num1,num2,num3
 // num1=num2=num3= 2+2;
 
-let gameCounter = 100;
-gameCounter++;
-console.log(gameCounter);
+// let gameCounter = 100;
+// gameCounter++;
+// console.log(gameCounter);
