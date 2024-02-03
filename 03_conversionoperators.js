@@ -54,3 +54,20 @@
 // let str2 = " Krishna";
 // let str3 = str1 + str2;
 // console.log(str3);
+
+
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 +2);
+// console.log(1 + 2 + "2");
+
+
+// console.log(+true);    // will give 1 as output But true+ will not expected
+// console.log(+"");      // will give 0 as output and +false will also give 0 as output
+
+// let num1,num2,num3
+// num1=num2=num3= 2+2;
+
+let gameCounter = 100;
+gameCounter++;
+console.log(gameCounter);
