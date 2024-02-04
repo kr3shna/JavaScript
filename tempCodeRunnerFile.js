@@ -1,3 +1,1 @@
-
-// myArr.unshift(12);
-// console.log(myArr); 
+console.log(Array.isArray("Krishna")) 
