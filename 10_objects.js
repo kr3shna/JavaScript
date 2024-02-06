@@ -94,18 +94,18 @@
 
 // Destructuring of Objects
 
-const course = {
-    courseName: "Best ever js course",
-    coursePrice: "999",
-    courseInstructor: "Hitesh Sir",
-}
+// const course = {
+//     courseName: "Best ever js course",
+//     coursePrice: "999",
+//     courseInstructor: "Hitesh Sir",
+// }
 
 // const {courseInstructor} = course;    // Another way of accessing objects if we are printing  it multiple time we don't have to write course.Instructor
 // console.log(courseInstructor);
 
-const {courseInstructor: instructor} = course;      //destructuring object here we have assign courseInstructor another name as instructor so after that we will be using instructor to print courseInstructor
+// const {courseInstructor: instructor} = course;      //destructuring object here we have assign courseInstructor another name as instructor so after that we will be using instructor to print courseInstructor
 
-console.log(instructor); 
+// console.log(instructor); 
 
 
 
