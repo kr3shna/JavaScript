@@ -29,9 +29,9 @@ data types are classified into two types 1) Primitive Data types 2) Non-Primitiv
 
 // example for stack memory
 
-// let name = "Krishna";
-// let anothername = name;
-// anothername = "Shende";
+let name = "Krishna";
+let anothername = name;
+anothername = "Shende";
 
 // console.log(name);
 // console.log(anothername);

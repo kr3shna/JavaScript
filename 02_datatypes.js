@@ -15,7 +15,9 @@
     symbol       =>       it is used to identify uniqueness of component     gives symbol as return value
 
     object
-*/
+
+*/    
+
 
 /* console.log(typeof x)
   typeof is used find type of data type
