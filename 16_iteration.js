@@ -45,3 +45,26 @@
     
 // }
 
+
+
+// while loop
+// let i = 0;
+// while (i <= 10) {
+//     console.log(`value of i is ${i}`);
+//     i = i + 2;
+// }
+
+
+// myarray = ['jethabhai','bhidebhau','hathibhai']
+
+// let arr = 0
+// while (arr < myarray.length) {
+//     console.log(`Gokuldhamvasi ${myarray[arr]}`);
+//     arr = arr +1;
+// }
+
+// do while loop
+  let score = 1;
+do {
+    console.log(`Score is ${score}`);
+} while (score <= 10);
