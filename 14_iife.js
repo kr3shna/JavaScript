@@ -5,7 +5,7 @@
 (function chai(){                   // It is named IIFE
     console.log(`DB CONNECTED`)
 })();
-//NOTE:- it is must write ; at the end of the function when we are writing two IIFE
+//NOTE:- it is must to write  ; at the end of the function when we are writing two IIFE
 
 
 //Another way of writing IIFE
