@@ -13,3 +13,8 @@
 ((name) => {                     // it is unnamed IIFE
     console.log(`DB CONNECTED TWO ${name}`);
 })("jethabhai")
+
+
+
+
+// https://developer.mozilla.org/en-US/docs/Glossary/IIFE
