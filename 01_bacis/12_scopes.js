@@ -57,4 +57,6 @@ function addone(num){                  //1st way of declearing function
     
 
 
+    // https://developer.mozilla.org/en-US/docs/Glossary/Scope
+
 
