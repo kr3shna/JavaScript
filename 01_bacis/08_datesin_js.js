@@ -11,12 +11,12 @@ let myDate = new Date();
 // console.log(myDate.toLocaleString());
 
 
-let myCreatedDate = new Date(2023, 0, 23)
+let myCreatedDate = new Date(2024, 0, 23)
 // console.log(myCreatedDate.toDateString());
 
 
-let myCreatedDate1 = new Date(2023, 0, 23, 5, 3)    //here 0 represents Jan month
-// console.log(myCreatedDate1.toLocaleString());
+let myCreatedDate1 = new Date(2024, 0, 23, 5, 3)    //here 0 represents Jan month
+console.log(myCreatedDate1.toLocaleString());
 
 
 let myCreatedDate2 = new Date("2023-01-14");
