@@ -92,3 +92,9 @@ let score2 = 200;
 let score3 = 300;
 
 // console.log(Array.of(score1, score2, score3));    // .of converts array into elements
+
+
+
+
+//explore more methods:-
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/@@iterator
