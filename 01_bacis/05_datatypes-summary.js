@@ -1,7 +1,7 @@
 /*Kis tarah se data ko memory me rakha jata hai aur access kiya jata hai on that basis 
 data types are classified into two types 1) Primitive Data types 2) Non-Primitive Data types*/
 
-//Primitive Datatypes
+//Primitive Datatypes:-
 
 /* 7 types:- strings, Number, Boolean, null, undefined,Symbol,BigInt */
 
