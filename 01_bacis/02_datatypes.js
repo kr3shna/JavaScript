@@ -1,4 +1,5 @@
-// "use strict" :- It is used to treat all JS code as newer version
+// "use strict" :- It is used to treat all JS code as newer version  
+//Note:- nowadays we don't use strict check its by default 
 
 
 /*  Data types          Info about data type                                 Tytpe of Return value                               
