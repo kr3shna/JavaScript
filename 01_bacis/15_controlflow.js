@@ -129,8 +129,14 @@ val1 = null ?? 10 ?? 20  //output:- 10
 // console.log(val1)
 
 
-// Terniary Operator
+// Ternary Operator
 //condition ? true : false
 
 const iceTeaPrice = 100;
 // iceTeaPrice <=80 ? console.log("less than 80") : console.log("more than 80")
+
+
+
+// Nullish Coalescing Operator:-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing
+
+// Ternary Operator:- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator
