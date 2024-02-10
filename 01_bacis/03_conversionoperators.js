@@ -5,8 +5,8 @@ console.log(typeof score);
 // console.log(typeof valueInNumber);
 // // console.log(valueInNumber)
 
-//  "33"  =>  33
-// "33abc"=>  NAN(Not A Number)
+//  "77"  =>  77
+// "77abc"=>  NAN(Not A Number)
 // true   => 1; false => 0
 
 
