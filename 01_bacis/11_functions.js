@@ -91,4 +91,8 @@ function returnSecondValue(getArray){
       return getArray[1];
 }
 
-console.log(returnSecondValue(myNewArray));
+// console.log(returnSecondValue(myNewArray));
+
+
+
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Function
