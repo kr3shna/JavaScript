@@ -1,11 +1,11 @@
-// console.log(7 > 1);
-// console.log(7 >= 1);
-// console.log(7 < 1);
-// console.log(7 <= 1);
-// console.log(7 != 1);
+// console.log(5 > 1);
+// console.log(5 >= 1);
+// console.log(5 < 1);
+// console.log(5 <= 1);
+// console.log(5 != 1);
 
 
-// console.log("7" > 0);
+// console.log("5" > 0);
 
 
 console.log(null > 0);
